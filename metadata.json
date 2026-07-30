@@ -1,0 +1,6 @@
+{
+  "name": "Hindi Voice Studio",
+  "description": "Create natural Hindi voiceovers from input text with pitch/rate controls and export as MP3 files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
